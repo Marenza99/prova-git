@@ -33,12 +33,6 @@ public class Pietanza {
         this.costo = costo;
     }
 
-    public String prova(){
-        return "Prova-git";
-    }
-
-
-
     public String getCategoria() {
         return categoria;
     }
